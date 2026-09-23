@@ -200,6 +200,7 @@ The SQL analysis demonstrates the use of:
 
 ## Power BI Dashboard
 
+![Power BI Financial Analytics Dashboard](dashboards/powerbi_dashboard.png)
 An interactive Power BI dashboard was created to visualize both market and financial data.
 
 The dashboard includes:
